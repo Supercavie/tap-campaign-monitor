@@ -1,0 +1,13 @@
+Hello everyone, is it possible to add all the subscribers history of campaign monitor to Tables. On campaign monitor you have the API:
+
+https://www.campaignmonitor.com/api/subscribers/#getting-subscribers-history
+
+That's the only way Campaign Monitor API has, to give you all the details of journeys. Apart from campaigns and lists, you can on 
+Campaign Monitor create Journeys to automatically send emails to a subscriber segmented list.
+
+This tap-campaign-monitor has been awesome and allows a third party like stitchdata to send all the campaign monitor data automatically 
+to Google BigQuery, it is just missing this part of information.
+
+Can you please help?
+Thanks,
+Diogo.
